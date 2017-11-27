@@ -1,0 +1,11 @@
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.formLogin.resources
+C:\Users\Matheus\Documents\PROJETO RICARDO\Sistema\Sistema\obj\Debug\Sistema.formMenu.resources

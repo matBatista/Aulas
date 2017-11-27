@@ -1,0 +1,10 @@
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\bin\Debug\Scorpio.exe.config
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\bin\Debug\Scorpio.exe
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\bin\Debug\Scorpio.pdb
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.Form1.resources
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.Properties.Resources.resources
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.exe
+C:\Users\Matheus\Documents\PROJETO RICARDO\Nathan\Scorpio\Scorpio\obj\Debug\Scorpio.pdb
